@@ -9,9 +9,11 @@
 
 ### :computer:Competitive Programming Profile
 
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg"/>](https://www.codechef.com/users/aashish_7) 
+[<img align="left" alt="Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg"/>](https://codeforces.com/profile/aashish_7)
 
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg"/>](https://codeforces.com/profile/aashish_7)
+[<img align="left" alt="Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg"/>](https://www.codechef.com/users/aashish_7) 
+
+[<img align="left" alt="Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"/>](https://www.hackerrank.com/iaashish07)
 
 </br>
 
@@ -20,7 +22,7 @@
 
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>](https://www.instagram.com/actually_aashish/)
 
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>](https://www.facebook.com/aashishkbond)
+[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>](https://www.facebook.com/aashishkbond)
 
 </br>
 
