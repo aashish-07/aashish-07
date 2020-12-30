@@ -9,7 +9,11 @@
 
 ### :computer:Competitive Programming Profile
 
-:globe_with_meridians:[Codechef](https://www.codechef.com/users/aashish_7)  :bar_chart:[Codeforces](https://codeforces.com/profile/aashish_7)
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg"/>](https://www.codechef.com/users/aashish_7) 
+
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg"/>](https://codeforces.com/profile/aashish_7)
+
+</br>
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/aashish-kumar-singh-8b058a1a0/)
