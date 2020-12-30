@@ -1,4 +1,5 @@
 ## Hi , I'm Aashish 👋
+:mortar_board: Computer Science Undergraduate 
 
 🌱 I’m currently learning web development and competitive programming
 
