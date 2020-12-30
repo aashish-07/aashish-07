@@ -6,7 +6,8 @@
   🔭 I’m currently working on my problem solving skills
   
    :pushpin:I'm 2:star2:coder at codechef
-
+   
+---
 ### :computer:Competitive Programming Profile
 
 ![Badge](https://cp-logo.vercel.app/codeforces/aashish_7)[<img align="left" alt="Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg"/>](https://codeforces.com/profile/aashish_7)
@@ -17,6 +18,7 @@
 
 </br>
 
+---
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>]()
@@ -34,6 +36,7 @@
 
 </br>
 
+---
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/aashish-kumar-singh-8b058a1a0/)
 
