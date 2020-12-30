@@ -50,3 +50,30 @@
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>](https://www.facebook.com/aashishkbond)
 
 </br>
+
+---
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="aashish-07 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aashish-07&show_icons=true&hide_border=true&theme=algolia"/>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashish-07&layout=compact)](https://github.com/aashish-07/github-readme-stats)
+
+
+</details>
+
+<details>
+  <summary>:zap: Languages Used</summary>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashish-07&layout=compact)](https://github.com/aashish-07/github-readme-stats)
+
+
+</details>
+
+
+
+<!--CP Badge - https://github.com/kehsihba19/CP-Badges
+ github stats - https://github.com/anuraghazra/github-readme-stats
+-->
