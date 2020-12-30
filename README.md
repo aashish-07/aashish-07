@@ -1,9 +1,10 @@
-### Hi there 👋
--🔭 I’m currently working on problem solving skills
+### Hi,I'm Aashish Kumar Singh 👋
 
--🌱 I’m currently learning web development and competitive programming
+🔭 I’m currently working on problem solving skills
 
--[Codechef](/https://www.codechef.com/users/aashish_7).
+🌱 I’m currently learning web development and competitive programming
+
+[Codechef](Codechef/https://www.codechef.com/users/aashish_7).
 <!--
 **aashish-07/aashish-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
