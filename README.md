@@ -16,6 +16,11 @@
 
 [![Badge](https://cp-logo.vercel.app/codechef/aashish_7)](https://www.codechef.com/users/aashish_7)
 
+[<img align="left" alt="Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"/>](https://www.hackerrank.com/iaashish07)
+[<img align="left" alt="Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg"/>](https://www.hackerearth.com/iaashish07)
+
+
+
 
 </br>
 
