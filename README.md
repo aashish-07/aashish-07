@@ -1,10 +1,10 @@
-### Hi , I'm Aashish 👋
-
-🔭 I’m currently working on problem solving skills
+## Hi , I'm Aashish 👋
 
 🌱 I’m currently learning web development and competitive programming
 
-#### :computer:Competitive Programming Profile
+🔭 I’m currently working on my problem solving skills
+
+### :computer:Competitive Programming Profile
 
 :globe_with_meridians:[Codechef](https://www.codechef.com/users/aashish_7)  :bar_chart:[Codeforces](https://codeforces.com/profile/aashish_7)
 
