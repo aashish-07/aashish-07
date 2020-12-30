@@ -9,11 +9,11 @@
 
 ### :computer:Competitive Programming Profile
 
-[![Badge](https://cp-logo.vercel.app/codeforces/aashish_7)][<img align="left" alt="Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg"/>](https://codeforces.com/profile/aashish_7)
+![Badge](https://cp-logo.vercel.app/codeforces/aashish_7)[<img align="left" alt="Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg"/>](https://codeforces.com/profile/aashish_7)
 
-[![Badge](https://cp-logo.vercel.app/codechef/aashish_7)][<img align="left" alt="Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg"/>](https://www.codechef.com/users/aashish_7) 
+![Badge](https://cp-logo.vercel.app/codechef/aashish_7)[<img align="left" alt="Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg"/>](https://www.codechef.com/users/aashish_7) 
 
-[<img align="left" alt="Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"/>](https://www.hackerrank.com/iaashish07)
+[<img align="left" alt="Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"/>](https://www.hackerrank.com/iaashish07)
 
 </br>
 
