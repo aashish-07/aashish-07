@@ -59,13 +59,12 @@
 
   <img align="left" alt="aashish-07 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aashish-07&show_icons=true&hide_border=true&theme=algolia"/>
   
-
 </details>
 
 <details>
   <summary>:zap: Languages Used</summary>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashish-07&layout=compact)](https://github.com/aashish-07/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashish-07&layout=compact)](https://github.com/aashish-07/)
 
 
 </details>
