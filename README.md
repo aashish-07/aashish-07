@@ -4,9 +4,11 @@
 
 🌱 I’m currently learning web development and competitive programming
 
-[Codechef](https://www.codechef.com/users/aashish_7).
+#### Competitive Programming Profile
 
-:bar_chart:[Codeforces](https://codeforces.com/profile/aashish_7)
+:globe_with_meridians:[Codechef](https://www.codechef.com/users/aashish_7)  :bar_chart:[Codeforces](https://codeforces.com/profile/aashish_7)
+
+
 <!--
 **aashish-07/aashish-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
