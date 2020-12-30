@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning web development and competitive programming
 
-#### Competitive Programming Profile
+#### :computer:Competitive Programming Profile
 
 :globe_with_meridians:[Codechef](https://www.codechef.com/users/aashish_7)  :bar_chart:[Codeforces](https://codeforces.com/profile/aashish_7)
 
