@@ -2,7 +2,9 @@
 
 🌱 I’m currently learning web development and competitive programming
 
-🔭 I’m currently working on my problem solving skills
+  🔭 I’m currently working on my problem solving skills
+  
+   :pushpin:I'm 2:star2:coder at codechef
 
 ### :computer:Competitive Programming Profile
 
@@ -23,3 +25,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
