@@ -53,7 +53,8 @@
 
 ---
 
-[![Aashish's github stats](https://github-readme-stats.vercel.app/api?username=aashish-07)]()
+[![Aashish's github stats](https://github-readme-stats.vercel.app/api?username=aashish-07&theme=algolia)]()
+
 
 <!--<details>
   <summary>:zap: GitHub Stats</summary>-->
