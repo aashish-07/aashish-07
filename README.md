@@ -53,12 +53,10 @@
 
 ---
 
-  <img align="left" height="300px" width="100%" src="https://github-readme-stats.vercel.app/api?theme=light&username=aashish-07&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Aashish's GitHub stats"/>
-
-
 
 <!--<details>
   <summary>:zap: GitHub Stats</summary>-->
+  [![Aashish's github stats](https://github-readme-stats.vercel.app/api?username=aashish-07&theme=algolia)]()
 
   
 <!--</details>-->
