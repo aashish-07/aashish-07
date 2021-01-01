@@ -64,7 +64,8 @@
 <details>
   <summary>:zap: Languages Used</summary>
   
-[![Aashish's github stats](https://github-readme-stats.vercel.app/api?username=aashish-07)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashish-07&layout=compact)]()
+
 
 
 </details>
