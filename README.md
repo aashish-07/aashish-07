@@ -56,7 +56,7 @@
 
 <!--<details>
   <summary>:zap: GitHub Stats</summary>-->
-  [![Aashish's github stats](https://github-readme-stats.vercel.app/api?username=aashish-07&theme=algolia)]()
+ [![Github Stats](https://github-readme-stats.vercel.app/api?username=aashish-07&theme=algolia)()
 
   
 <!--</details>-->
@@ -64,7 +64,7 @@
 <details>
   <summary>:zap: Languages Used</summary>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashish-07&layout=compact&theme=algolia)]()
+[![Aashish's github stats](https://github-readme-stats.vercel.app/api?username=aashish-07)]()
 
 
 </details>
