@@ -54,12 +54,12 @@
 ---
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<!--<details>
+  <summary>:zap: GitHub Stats</summary>-->
 
   <img align="left" alt="aashish-07 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aashish-07&show_icons=true&hide_border=true&theme=algolia"/>
   
-</details>
+<!--</details>-->
 
 <details>
   <summary>:zap: Languages Used</summary>
